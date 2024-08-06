@@ -23,13 +23,13 @@ Rounds the font size of each paragraph to the nearest 0.5-point increment and di
 Allows the user to match the dimensions of selected objects either by width or height. It includes options to reverse the target object used for matching.
 
 ### Match-Object-to-Page-Size.jsx
-Creates a custom palette in Adobe InDesign that allows users to resize selected objects to match the page size, margin, or bleed area.
+Allows users to resize selected objects to match the page size, margin, or bleed area.
 
 ### Remove-Imported-Bullet-Points.jsx
 Removes bullet points from the text content of a selected text frame.
 
 ### Remove-Unused-Swatches.jsx
-Identifies and removes unused swatches from an Adobe InDesign document, displaying a summary of the removed swatches.
+Identifies and removes unused swatches, displaying a summary of the removed swatches.
 
 ### Remove-all-Line-Breaks.jsx
 Removes all line breaks and tabs from the text content of a selected text frame, replacing them with a single space.
@@ -44,7 +44,7 @@ Identifies and lists duplicate images used, displaying the file paths of images 
 Identifies images that do not fully fill their containers, listing these images along with the pages where they are located.
 
 ### Show-List-of-Paragraph-Only-Font-Sizes.jsx
-Lists all unique font sizes used in paragraphs within an Adobe InDesign document, displaying their frequency and the pages and coordinates of their occurrence (for the first 10 instances of each font size).
+Lists all unique font sizes used in paragraphs, displaying their frequency and the pages and coordinates of their occurrence (for the first 10 instances of each font size).
 
 ### Show-List-of-Sections.jsx
 Lists all sections, indicating empty sections with a placeholder, and displays the list.
