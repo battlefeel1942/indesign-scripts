@@ -1,1 +1,1 @@
-# indesign-scripts
+# indesign-tools
