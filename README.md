@@ -1,6 +1,6 @@
 # Adobe InDesign Scripts
 
-This repository contains a collection of useful scripts for Adobe InDesign to enhance your workflow. Below is a list of scripts included in this repository, along with a brief description of each.
+This repository contains a collection of useful scripts for Adobe InDesign to enhance your workflo
 
 ## Scripts
 
