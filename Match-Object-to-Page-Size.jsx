@@ -1,9 +1,10 @@
 #targetengine "myPalette"
 
 // Create a palette window
-var palette = new Window("palette", "Match Object to Page Size");
+var palette = new Window("palette", "Match Object to Page Size", undefined, {resizeable: true});
 palette.orientation = "column";
 palette.alignChildren = "left";
+palette.minimumSize.width = 200; // Set minimum width to accommodate the title
 
 // Add radio buttons for Page, Margin, Bleed directly to the palette
 var pageOption = palette.add("radiobutton", undefined, "Page");
