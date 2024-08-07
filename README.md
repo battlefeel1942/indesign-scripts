@@ -65,6 +65,8 @@ Swaps the positions of two selected objects while ensuring that any images withi
 ### Update-Page-Locks.jsx
 Locks or unlocks all pages, with a summary of locked, unlocked, and empty pages.
 
+![UpdatePageLocks Example](https://github.com/battlefeel1942/indesign-scripts/blob/main/images/updatepagelocks-001.png)
+
 ### Update-Units.jsx
 Displays the current horizontal, vertical, and stroke measurement units. It provides a button to update these units to millimeters.
 
