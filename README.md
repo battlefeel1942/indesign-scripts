@@ -25,8 +25,13 @@ Rounds the font size of each paragraph to the nearest 0.5-point increment and di
 ### Match-Object-Dimensions.jsx
 Allows the user to match the dimensions of selected objects either by width or height. It includes options to reverse the target object used for matching.
 
+![MatchObjectDimensions Example](https://github.com/battlefeel1942/indesign-scripts/blob/main/images/matchobjecttarget-001.png)
+
 ### Match-Object-to-Page-Size.jsx
 Allows users to resize selected objects to match the page size, margin, or bleed area.
+
+![MatchObjectToPageSize Example](https://github.com/battlefeel1942/indesign-scripts/blob/main/images/matchobjecttopagesize-001.png)
+
 
 ### Remove-Imported-Bullet-Points.jsx
 Removes bullet points from the text content of a selected text frame.
