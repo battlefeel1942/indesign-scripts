@@ -10,6 +10,7 @@ A custom palette window that dynamically lists the following scripts from the us
 ### Auto-Bold.jsx
 Applies a character style named 'AutoBold' to specified search terms within all text frames. This character style can later be replaced by a character style of your choosing.
 
+![AutoBold Example](https://github.com/battlefeel1942/indesign-scripts/blob/main/images/autobold-001.png)
 
 
 ### Convert-Paragraph-Language-to-UK-English.jsx
