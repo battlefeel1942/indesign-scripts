@@ -7,6 +7,8 @@ This repository contains a collection of useful scripts for Adobe InDesign to en
 ### 0_Window.jsx
 A custom palette window that dynamically lists the following scripts from the user's scripts folder, providing buttons to execute each script directly.
 
+![Window Example](https://github.com/battlefeel1942/indesign-scripts/blob/main/images/window-001.png)
+
 ### Auto-Bold.jsx
 Applies a character style named 'AutoBold' to specified search terms within all text frames. This character style can later be replaced by a character style of your choosing.
 
