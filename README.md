@@ -10,6 +10,8 @@ A custom palette window that dynamically lists the following scripts from the us
 ### Auto-Bold.jsx
 Applies a character style named 'AutoBold' to specified search terms within all text frames. This character style can later be replaced by a character style of your choosing.
 
+
+
 ### Convert-Paragraph-Language-to-UK-English.jsx
 Converts the language of selected paragraphs from "English: USA" to "English: UK", with options to apply this conversion specifically to US English or to any language.
 
