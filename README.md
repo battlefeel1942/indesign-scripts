@@ -104,6 +104,8 @@ Locks or unlocks all pages, with a summary of locked, unlocked, and empty pages.
 ### Update-Units.jsx
 Displays the current horizontal, vertical, and stroke measurement units. It provides a button to update these units to millimeters.
 
+![UpdateUnitsToMillimeters Example](https://github.com/battlefeel1942/indesign-scripts/blob/main/images/updateunitstomm-001.png)
+
 <hr>
 
 ## Usage
